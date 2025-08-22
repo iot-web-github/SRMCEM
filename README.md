@@ -1,4 +1,4 @@
-# SRMCEM
+# AuthSystem
 
 A full-stack project with three main components:
 - **frontend**: React-based UI
